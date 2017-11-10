@@ -1,0 +1,16 @@
+img { display: inline-block; max-height: 555px;   
+  
+    max-width: 95%;}
+.img{
+    text-align: center;
+}
+.add{
+   width: 100%;
+   background-color:  rgb(92, 184, 92);
+   color:#fff;
+   text-align: center;
+   font-size: 2em;
+}
+.button{
+    width: 100%;
+}

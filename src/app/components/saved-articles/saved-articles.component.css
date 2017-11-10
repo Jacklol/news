@@ -1,0 +1,9 @@
+img { display: inline-block; max-height: 555px; max-width:95% }
+.img{
+    text-align: center;
+}
+
+button{
+    float: right
+
+}
