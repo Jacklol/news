@@ -2,9 +2,9 @@
 
 # npm install -g @angular/cli
 
-#  npm install 
-
 # cd News (News-master) (name(path) of project)
+
+#  npm install 
 
 # ng serve
 
