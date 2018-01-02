@@ -1,5 +1,14 @@
 
 
+# npm install -g @angular/cli
+
+#  npm install 
+
+# cd News (News-master) (name(path) of project)
+
+# ng serve
+
+
 # News
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
